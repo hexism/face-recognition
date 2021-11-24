@@ -1,6 +1,6 @@
 # Face recognition with Javascript & face-api.js
 
-This program can detect faces in video & images using Javscript & face-api.js library
+This program can detect faces in video & images using Javascript & face-api.js library
 
 # Preview:
 ![Preview](https://s21.picofile.com/file/8444284192/face_api.PNG)
