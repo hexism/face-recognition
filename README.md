@@ -7,6 +7,6 @@ This program can detect faces in video & images using Javascript & face-api.js l
 
 # Usage:
 1. Clone this repository
-2. Open project directory & open webcam.html or image.html file (if choosing webcam.html after opening click allow in access to camera permission dialog)
+2. Open project directory & start webcam.html or image.html with Live Server (if choosing webcam.html after opening click allow in access to camera permission dialog)
 
 Developed by Sajjad Noori - 2021
