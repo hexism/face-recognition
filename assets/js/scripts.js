@@ -1,9 +1,4 @@
-const models = "/assets/js/lib/face-api/models",
-  avatar = document.getElementById("image"),
-  { pathname } = window.location;
-window.onload = () => {
-  pathname === "/webcam.html" ? videoStream("#stream") : detectFaces(avatar);
-};
+const models = "/assets/js/lib/face-api/models";
 
 const videoStream = (element, hasDetectFaces = true) => {
   const videoElement = document.querySelector(element);
